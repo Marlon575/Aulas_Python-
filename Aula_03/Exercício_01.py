@@ -1,0 +1,11 @@
+Nome = input("Digite o seu nome: ")
+Idade = input("Digite a sua idade :")
+Estado_Civel = input("Digite o seu estado civel :")
+Cidade = input("Digite a sua Cidade :")
+Altura = input ("Digite sua altura :")
+
+print("Nome:" , Nome)
+print("Idade:" , Idade)
+print("Estado_Civel: ", Estado_Civel)
+print("Cidade:", Cidade)
+print("Altura", Altura)
