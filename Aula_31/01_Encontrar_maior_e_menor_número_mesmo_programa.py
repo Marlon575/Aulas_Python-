@@ -13,5 +13,5 @@ for numero in lista:
     if numero < menor: # Se encontrar um número ds lista, menor que o primeiro número da lista.
         menor = numero # Menor passa a ser esse número encontrsdo.
 
-print("Maior número:  ", maior)
-print("Menor número:  ", menor)
+print("Maior número:", maior)
+print("Menor número:", menor)
